@@ -1,0 +1,50 @@
+
+body{background-color: gray;
+}
+
+
+
+h1{
+    margin-left: 500px; 
+    margin-top: 50px;
+}
+
+.texto{
+    margin: 5px 10px 5px 50px;
+    font-size: 25px;
+}
+
+.arriba{
+    margin: 50px;
+}
+
+
+
+.navegar{
+    margin-left: 500px;
+}
+
+.tour{
+font-size: 35px;
+margin: 10px 10px 10px 10px;
+
+}
+
+.boton{
+ margin: 70px 300px;
+}
+
+img.oceanblvd{
+    width: 500px;
+height: auto;
+margin-left: 50px;
+}
+
+img.lana{
+ width: 350px;
+ height: 250px;
+}
+.mailContacto{
+    font-size: 20px;
+}
+

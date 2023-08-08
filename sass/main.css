@@ -1,0 +1,34 @@
+body {
+  background-color: gray;
+}/*# sourceMappingURL=main.css.map */
+
+section h2 {margin-right: 150px;
+}
+
+section {font-size: 20px;
+}
+
+input {
+    width: 200px;
+    height: 45px;
+    transition: all 1s;} 
+  
+    input:focus { width: 220px;
+    height: 55px;
+    background-color: cadetblue;
+    font-size: medium;}
+    
+  
+    textarea { 
+    width: 200px;
+    height: 70px;
+    transition: all 1s;} 
+  
+    textarea:focus { width: 250px;
+    height: 100px;
+    background-color: cadetblue;
+    font-size: medium;}
+
+
+  
+
